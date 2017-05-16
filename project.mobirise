@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "name": "personal site",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Source Sans Pro",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 3,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "DEV PORTOFOLIO",
+          "text": "Welcome to what will soon be a website dedicated to my projects.<br><i>by &nbsp;Adrian Ciurescu</i>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "24px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
